@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reusable-Button/static/css/main.08e2da05.css",
+    "main.js": "/Reusable-Button/static/js/main.2ea3d5d9.js",
+    "index.html": "/Reusable-Button/index.html",
+    "main.08e2da05.css.map": "/Reusable-Button/static/css/main.08e2da05.css.map",
+    "main.2ea3d5d9.js.map": "/Reusable-Button/static/js/main.2ea3d5d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e2da05.css",
+    "static/js/main.2ea3d5d9.js"
+  ]
+}
